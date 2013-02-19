@@ -1,4 +1,4 @@
 Twitter-Demo
 ============
 
-Guilmo.com Post to Twitter in IOS5+ Demo Code
+The post explaining how to use this code can be found at: http://www.guilmo.com/how-to-post-to-twitter-in-ios-5-or-greater/
